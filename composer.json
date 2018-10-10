@@ -1,6 +1,7 @@
 {
     "name": "drupalcampcolorado/dcco-project",
     "description": "Scaffolding tool for new DrupalCamp Colorado websites.",
+    "license": "GPL-2.0-or-later",
     "type": "project",
     "authors": [
         {
